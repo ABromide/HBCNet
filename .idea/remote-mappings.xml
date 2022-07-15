@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@a158dcb7-79cc-48ae-98b8-38b2d3e1d32c" />
+        <remote-mappings server-id="python@sftp://lichenglong@222.20.126.3:22/home/lichenglong/anaconda3/envs/hbc_cl/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/lichenglong/pycharm_project/HBC_raw" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
